@@ -44,7 +44,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 This Frontend project is built for ecommerce site, please visit backend component on a different REPO.
 
 ![](images/image1.png)
-
+![](images/image2.png)
+![](images/image3.png)
 
 
 
